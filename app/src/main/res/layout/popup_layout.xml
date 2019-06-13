@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="60dp"
+    android:layout_height="210dp"
+    android:background="#00aaff"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/iv_sx"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:src="@mipmap/playmode_sequence_pressed" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff" />
+
+    <ImageView
+        android:id="@+id/iv_xh"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:src="@mipmap/playmode_repeate_all_pressed" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff" />
+
+    <ImageView
+        android:id="@+id/iv_dq"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:src="@mipmap/playmode_repeate_single_pressed" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff" />
+
+    <ImageView
+        android:id="@+id/iv_sj"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:src="@mipmap/playmode_repeate_random_pressed" />
+
+</LinearLayout>

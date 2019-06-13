@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="back">菜单</string>
+    <string name="sing">sing</string>
+    <string name="消息中心">消息中心</string>
+    <string name="sd">皮肤中心</string>
+    <string name="hy">会员中心</string>
+    <string name="ll">流量包月</string>
+    <string name="sr">私人云盘</string>
+    <string name="ds">定时关闭</string>
+    <string name="kshe">蝰蛇音效</string>
+    <string name="tingqu">听曲识歌</string>
+    <string name="yyue">音乐工具</string>
+    <string name="cling">铃声彩铃</string>
+    <string name="shezhi">设置</string>
+    <string name="tuichi">退出</string>
+    <string name="title">音乐播放器</string>
+    <string name="meoth">模式</string>
+    <string name="sin">歌名</string>
+    <string name="starttime">00:00</string>
+    <string name="firsttime">00:00</string>
+    <string name="huiyuanzhongxin">会员中心</string>
+</resources>

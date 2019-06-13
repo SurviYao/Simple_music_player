@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_hy"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tools.MyVIPActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00aaff"
+        android:gravity="center"
+        android:text="@string/huiyuanzhongxin"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="没钱开什么会员，赶紧搬砖去！！！"
+        android:textStyle="bold"
+        android:id="@+id/tv_hy"/>
+
+</LinearLayout>
